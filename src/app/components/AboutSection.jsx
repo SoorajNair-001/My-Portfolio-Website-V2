@@ -22,7 +22,7 @@ const TAB_DATA = [
     content: (
       <ul className="list-disc pl-2">
         <li>Bachelor of Science (Honours): Computer Science,
-          <br/>Memorial University of Newfoundland (Sep 2020 - Dec 2024)<br/>- St.John's, NL, Canada</li>
+          <br/>Memorial University of Newfoundland (Sep 2020 - Dec 2024)<br/>- St.John`&#39;`s, NL, Canada</li>
       </ul>
     ),
   },
