@@ -52,12 +52,13 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
             <p className="text-base lg:text-lg">
-              I am a full stack web developer with a passion for creating
-              interactive and responsive web applications. I have experience
-              working with JavaScript, React, Redux, Node.js, Express, PostgreSQL,
-              Sequelize, HTML, CSS, and Git. I am a quick learner and I am always
-              looking to expand my knowledge and skill set. I am a team player and
-              I am excited to work with others to create amazing applications.
+              I am a passionate software developer with a strong foundation in Python, Java, C/C++, and JavaScript, 
+              I specialize in crafting seamless code solutions that drive innovation. My work at the Visual and Analytic 
+              Computing (VAC) Lab involves pioneering research to enhance aviation safety through advanced visual computing
+              techniques, where I construct global wind data into a 3D holographic environment using Unreal Engine and C++. 
+              My diverse experiences range from developing efficient backend systems with FastAPI to creating interactive dashboards
+              and infographics that turn data into actionable insights. Whether it's web development, game design, or data visualization, 
+              I thrive on building robust applications that meet user needs and push the boundaries of technology.
             </p>
             <div className="flex flex-row justify-start mt-8">
               <TabButton
