@@ -52,7 +52,7 @@ const AboutSection = () => {
         <div className="mt-4 md:mt-0 text-left flex flex-col h-full">
           <h2 className="text-4xl font-bold text-white mb-4">About Me</h2>
             <p className="text-base lg:text-lg">
-              I am a passionate software developer with a strong foundation in Python, Java, C/C++, and JavaScript, 
+              I am a passionate software developer with a strong foundation in Python, Java, C/C++, and JavaScript. 
               I specialize in crafting seamless code solutions that drive innovation. My work at the Visual and Analytic 
               Computing (VAC) Lab involves pioneering research to enhance aviation safety through advanced visual computing
               techniques, where I construct global wind data into a 3D holographic environment using Unreal Engine and C++. 
