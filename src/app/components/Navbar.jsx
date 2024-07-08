@@ -53,7 +53,7 @@ const Navbar = () => {
 
   return (
     <nav id={"nav_bar"} className="fixed mx-auto top-0 left-0 right-0 z-10 bg-[#121212] bg-opacity-0">
-      <div className="flex container lg:py-7 flex-wrap items-center justify-between mx-auto px-4 py-7">
+      <div className="flex container lg:py-7 flex-wrap items-center justify-between mx-auto px-4 py-1.5">
         {scrollY > 100
             ? unhide()
             : hide()
