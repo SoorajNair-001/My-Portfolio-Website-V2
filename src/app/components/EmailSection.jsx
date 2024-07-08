@@ -58,7 +58,7 @@ const EmailSection = () => {
         <div>
           <div className="flex justify-start">
             <Image src="/address-icon.png" alt="Github Icon" width="45" height="45" className="py-3" />
-            <div className="flex mt-5 ml-2"> St.John's, NL, Canada</div>
+            <div className="flex mt-5 ml-2"> St.John`&epos;`s, NL, Canada</div>
           </div>
           <div className="flex justify-start">
             <Image src="/email-icon.png" alt="Github Icon" width="45" height="45" className="py-3"/>
