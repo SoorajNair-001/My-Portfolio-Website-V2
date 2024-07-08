@@ -24,7 +24,7 @@ export default function Home() {
             style={{width:'100%', height:'684px', alignSelf:'center'}}
         />
 
-        <div className="container mt-24 mx-auto px-12 py-4 z-0">
+        <div className="container mt-24 mx-auto px-4 py-4 z-0">
             <HeroSection />
             <AboutSection />
             <ExperienceSection />
