@@ -57,7 +57,7 @@ const AboutSection = () => {
               Computing (VAC) Lab involves pioneering research to enhance aviation safety through advanced visual computing
               techniques, where I construct global wind data into a 3D holographic environment using Unreal Engine and C++. 
               My diverse experiences range from developing efficient backend systems with FastAPI to creating interactive dashboards
-              and infographics that turn data into actionable insights. Whether it's web development, game design, or data visualization, 
+              and infographics that turn data into actionable insights. Whether it&apos;s web development, game design, or data visualization, 
               I thrive on building robust applications that meet user needs and push the boundaries of technology.
             </p>
             <div className="flex flex-row justify-start mt-8">
