@@ -22,7 +22,7 @@ const projectsData = [
     description: "Current version of my portfolio website. Made using Javascript Next.js(React) & Tailwind(CSS).",
     image: "/images/projects/13.png",
     tag: ["All", "Web"],
-    gitUrl: "nil",
+    gitUrl: "https://github.com/SoorajNair-001/My-Portfolio-Website",
     previewUrl: "nil",
   },
   {
