@@ -49,7 +49,8 @@ const ExperienceSection = () => {
                 <div className="w-1/2"></div>
               </div>
 
-              {/* 2*/}
+
+              {/* 2 */}
               <div className="flex justify-between h-60">
                 {/* LEFT */}
                 <div className="w-1/2"></div>
@@ -61,27 +62,6 @@ const ExperienceSection = () => {
                   </div>
                 </div>
                 {/* RIGHT */}
-                <div className="w-1/2">
-                  <div className="text-black bg-gray-200 rounded-b-lg rounded-s-lg">
-                    <div className="p-3 font-extrabold text-lg"> Customer Service Representative</div>
-                    <div className="p-3"> Circle K, Couche-Tard Inc. <br/> -St.John’s, NL, Canada
-                    </div>
-                  </div>
-                  <div className="p-3 text-red-400 text-sm font-semibold">July 2024 - Current</div>
-                  <div className="p-3 text-sm">As a dedicated Customer Service Representative at Circle K (Couche-Tard),
-                    I am committed to providing exceptional service and creating a welcoming atmosphere for our customers.
-                    With a passion for helping others and a keen eye for detail, I ensure that each interaction
-                    is positive and efficient. My responsibilities include handling customer inquiries, managing
-                    transactions, and maintaining store presentation standards. Through excellent communication
-                    and problem-solving skills, I strive to enhance customer satisfaction and loyalty.
-                  </div>
-                </div>
-              </div>
-
-
-              {/* 3 */}
-              <div className="flex justify-between h-60">
-                {/* LEFT */}
                 <div className="w-1/2">
                   <div className="text-black bg-gray-200  rounded-b-lg rounded-e-lg">
                     <div className="p-3 font-extrabold text-lg"> Customer Service Supervisor</div>
@@ -97,31 +77,12 @@ const ExperienceSection = () => {
                     purchase, return and exchange transactions and verifying processes to meet Company guidelines.
                   </div>
                 </div>
-                {/* CENTER */}
-                <div className="w-1/6 flex justify-center">
-                  <div className="w-1 h-full bg-white rounded relative">
-                    <div className="absolute w-5 h-5 rounded-full ring-4 ring-purple-600 bg-[#121212] -left-2 -top-2">
-                    </div>
-                  </div>
-                </div>
-                {/* RIGHT */}
-                <div className="w-1/2"></div>
 
               </div>
 
-
-              {/* 4 */}
+              {/* 3 */}
               <div className="flex justify-between h-60">
                 {/* LEFT */}
-                <div className="w-1/2"></div>
-                {/* CENTER */}
-                <div className="w-1/6 flex justify-center">
-                  <div className="w-1 h-full bg-white rounded relative">
-                    <div className="absolute w-5 h-5 rounded-full ring-4 ring-purple-600 bg-[#121212] -left-2 -top-2">
-                    </div>
-                  </div>
-                </div>
-                {/* RIGHT */}
                 <div className="w-1/2">
                   <div className="text-black bg-gray-200  rounded-b-lg rounded-s-lg">
                     <div className="p-3 font-extrabold text-lg"> Python Developer Intern</div>
@@ -142,26 +103,7 @@ const ExperienceSection = () => {
                     and contribute to real-world projects in a dynamic and collaborative environment.
                   </div>
                 </div>
-              </div>
 
-
-              {/* 5 */}
-              <div className="flex justify-between h-60">
-                {/* LEFT */}
-                <div className="w-1/2">
-                  <div className="text-black bg-gray-200  rounded-b-lg rounded-e-lg">
-                    <div className="p-3 font-extrabold text-lg">Sales Representative</div>
-                    <div className="p-3"> Sigma Agencies <br/> -Kollam, Kerala, India
-                    </div>
-                  </div>
-                  <div className="p-3 text-red-400 text-sm font-semibold">Aug 2018 - Jan 2020</div>
-                  <div className="p-3 text-sm">I was responsible for engaging customers, understanding their needs, and
-                    guiding them to the appropriate
-                    home appliance solutions. This role involves demonstrating product knowledge, providing expert
-                    advice, and
-                    closing sales while ensuring a high level of customer satisfaction.
-                  </div>
-                </div>
                 {/* CENTER */}
                 <div className="w-1/6 flex justify-center">
                   <div className="w-1 h-full bg-white rounded relative">
@@ -172,6 +114,7 @@ const ExperienceSection = () => {
                 {/* RIGHT */}
                 <div className="w-1/2"></div>
               </div>
+
             </div>
 
             {/* Mobile view*/}
@@ -195,21 +138,7 @@ const ExperienceSection = () => {
                     efficiency.
                   </div>
                 </div>
-                <div className="border-b-2">
-                  <div className="text-black bg-gray-200 rounded-t-lg">
-                    <div className="p-3 font-extrabold text-lg"> Customer Service Representative</div>
-                    <div className="p-3">  Circle K, Couche-Tard Inc. <br/> -St.John’s, NL, Canada
-                    </div>
-                  </div>
-                  <div className="p-3 text-red-400 text-sm font-semibold">July 2024 - Current</div>
-                  <div className="p-3 text-sm">As a dedicated Customer Service Representative at Circle K (Couche-Tard),
-                    I am committed to providing exceptional service and creating a welcoming atmosphere for our customers.
-                    With a passion for helping others and a keen eye for detail, I ensure that each interaction
-                    is positive and efficient. My responsibilities include handling customer inquiries, managing
-                    transactions, and maintaining store presentation standards. Through excellent communication
-                    and problem-solving skills, I strive to enhance customer satisfaction and loyalty.
-                  </div>
-                </div>
+
                 <div className="border-b-2">
                   <div className="text-black bg-gray-200  rounded-t-lg">
                     <div className="p-3 font-extrabold text-lg"> Customer Service Supervisor</div>
@@ -243,21 +172,6 @@ const ExperienceSection = () => {
                     provided me an excellent opportunity to enhance your Python skills, understand RESTful API
                     development,
                     and contribute to real-world projects in a dynamic and collaborative environment.
-                  </div>
-                </div>
-                <div className="border-b-2">
-                  <div className="text-black bg-gray-200  rounded-t-lg">
-                    <div className="p-3 font-extrabold text-lg">Sales Representative</div>
-                    <div className="p-3"> Sigma Agencies <br/> -Kollam, Kerala, India
-                    </div>
-                  </div>
-                  <div className="p-3 text-red-400 text-sm font-semibold">Aug 2018 - Jan 2020</div>
-                  <div className="p-3 text-sm">I was responsible for engaging customers, understanding their needs, and
-                    guiding them to the appropriate
-                    home appliance solutions. This role involves demonstrating product knowledge, providing expert
-                    advice,
-                    and
-                    closing sales while ensuring a high level of customer satisfaction.
                   </div>
                 </div>
               </div>
