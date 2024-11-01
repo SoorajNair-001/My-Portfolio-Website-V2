@@ -27,20 +27,19 @@ const ExperienceSection = () => {
                 {/* LEFT */}
                 <div className="w-1/2">
                   <div className="text-black bg-gray-200 rounded-b-lg rounded-s-lg">
-                    <div className="p-3 font-extrabold text-lg"> Software Developer Research Assistant</div>
+                    <div className="p-3 font-extrabold text-lg"> Software Developer Research</div>
                     <div className="p-3"> Visual and Analytic Computing (VAC) Lab <br/> -St.John’s, NL, Canada
                     </div>
                   </div>
                   <div className="p-3 text-red-400 text-sm font-semibold">May 2024 - Current</div>
                   <div className="p-3 text-sm">
-                    - Leading the design and implementation of a 3D holographic visualization
-                    platform using Unreal Engine and C++, converting complex global wind datasets
-                    into interactive simulations.<br/>
-                    - Analyzing the impact of atmospheric dynamics on flight trajectories, offering
-                    data-driven insights to enhance aviation safety and operational efficiency.<br/>
-                    - Collaborating with researchers to apply cutting-edge visual computing
-                    techniques, integrating real-time wind data to create immersive environments
-                    that aid in decision-making for aviation professionals.
+                    - Designing and implementing an interactive decision support system using Unreal
+                      Engine, C++, and Python to transform complex weather datasets into immersive
+                      simulations.<br/>
+                    - Examining the effects of atmospheric dynamics on flight paths to provide data-
+                    driven insights, aimed at improving aviation safety and operational efficiency.<br/>
+                    - Collaborating with project supervisor to integrate visual computing techniques
+                    and AI algorithms for data visualization and analysis.
                   </div>
                 </div>
                 {/* CENTER */}
@@ -74,8 +73,8 @@ const ExperienceSection = () => {
                   </div>
                   <div className="p-3 text-red-400 text-sm font-semibold">Oct 2024 - Current</div>
                   <div className="p-3 text-sm">
-                    - Collaborated on projects to train generative artificial intelligence (AI) models like
-                    MetaAI, focusing on improving the quality of AI-generated code. <br/>
+                    - Collaborating on projects to train generative artificial intelligence (AI) models,
+                    focusing on improving the quality of AI-generated code. <br/>
                     - Evaluated and ranked AI-generated code across various languages including
                     Python, Java, JavaScript, Swift, C# and C++.<br/>
                     - Contributed to enhancing AI models’ understanding of complex coding concepts,
@@ -155,20 +154,19 @@ const ExperienceSection = () => {
               <div className="grid grid-cols-1 gap-8">
                 <div className="border-b-2">
                   <div className="text-black bg-gray-200 rounded-t-lg">
-                    <div className="p-3 font-extrabold text-lg"> Software Developer Research Assistant</div>
+                    <div className="p-3 font-extrabold text-lg"> Software Developer Research</div>
                     <div className="p-3"> Visual and Analytic Computing (VAC) Lab <br/> -St.John’s, NL, Canada
                     </div>
                   </div>
                   <div className="p-3 text-red-400 text-sm font-semibold">May 2024 - Current</div>
                   <div className="p-3 text-sm">
-                    - Leading the design and implementation of a 3D holographic visualization
-                    platform using Unreal Engine and C++, converting complex global wind datasets
-                    into interactive simulations.<br/>
-                    - Analyzing the impact of atmospheric dynamics on flight trajectories, offering
-                    data-driven insights to enhance aviation safety and operational efficiency.<br/>
-                    - Collaborating with researchers to apply cutting-edge visual computing
-                    techniques, integrating real-time wind data to create immersive environments
-                    that aid in decision-making for aviation professionals.
+                    - Designing and implementing an interactive decision support system using Unreal
+                      Engine, C++, and Python to transform complex weather datasets into immersive
+                      simulations.<br/>
+                    - Examining the effects of atmospheric dynamics on flight paths to provide data-
+                    driven insights, aimed at improving aviation safety and operational efficiency.<br/>
+                    - Collaborating with project supervisor to integrate visual computing techniques
+                    and AI algorithms for data visualization and analysis.
                   </div>
                 </div>
 
