@@ -27,7 +27,6 @@ export default function Home() {
         <div className="container mt-24 mx-auto px-4 py-4 z-0">
             <HeroSection />
             <AboutSection />
-            <!--<ExperienceSection /> -->
             <ProjectsSection />
             <EmailSection />
         </div>
